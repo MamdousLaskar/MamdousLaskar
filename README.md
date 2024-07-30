@@ -30,13 +30,6 @@ Welcome to my GitHub profile! I'm a student who loves computers and problem-solv
 ![Linux Badge](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Windows Badge](https://img.shields.io/badge/Windows-0078D4?style=flat-square&logo=windows&logoColor=white)
 
-## 🔧 Projects
-
-Here are some of the projects I've worked on:
-
-- **[Project 1 Name](link-to-project)**: Brief description of the project. ![Project 1 Image](https://via.placeholder.com/150)
-- **[Project 2 Name](link-to-project)**: Brief description of the project. ![Project 2 Image](https://via.placeholder.com/150)
-- **[Project 3 Name](link-to-project)**: Brief description of the project. ![Project 3 Image](https://via.placeholder.com/150)
 
 ## 📚 Currently Learning
 
@@ -46,16 +39,6 @@ I'm currently focused on improving my skills in:
 - Web development frameworks and libraries
 - Data science and machine learning
 - Version control best practices
-
-## 💬 Let's Connect
-
-Feel free to reach out to me on [LinkedIn](your LinkedIn profile) or [Twitter](your Twitter profile). You can also check out my [personal website](your website link) for more information.
-
-## 📫 Contact Me
-
-You can contact me via email at [your email address].
-
-Thanks for stopping by!
 
 ---
 
