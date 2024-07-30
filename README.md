@@ -1,6 +1,6 @@
 # Hello, I'm Mamdous! 👋
 
-![Profile Banner](https://your-image-hosting-service.com/your-custom-banner.png)
+![Profile Banner](https://github.com/MamdousLaskar/MamdousLaskar/blob/main/banner.png)
 
 Welcome to my GitHub profile! I'm a student who loves computers and problem-solving, and I am currently expanding my knowledge and skills. Here's a bit about me:
 
