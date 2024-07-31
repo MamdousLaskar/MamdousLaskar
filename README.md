@@ -40,8 +40,3 @@ I'm currently focused on improving my skills in:
 - Data science and machine learning
 - Version control best practices
 
----
-
-![Mamdous's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mamdous&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mamdous&layout=compact&theme=radical)
